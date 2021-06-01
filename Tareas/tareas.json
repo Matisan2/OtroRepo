@@ -1,0 +1,32 @@
+[
+ {
+  "codigo": 1,
+  "titulo": "crear una variable",
+  "estado": "pendiente"
+ },
+ {
+  "codigo": 2,
+  "titulo": "convertir archivo",
+  "estado": "en progreso"
+ },
+ {
+  "codigo": 3,
+  "titulo": "hacer un programa",
+  "estado": "terminado"
+ },
+ {
+  "codigo": 4,
+  "titulo": "mover codigo",
+  "estado": "terminado"
+ },
+ {
+  "codigo": 5,
+  "titulo": "convertir codigo",
+  "estado": "pendiente"
+ },
+ {
+  "codigo": 6,
+  "titulo": "sacar a pasear el perro",
+  "estado": "terminado"
+ }
+]
